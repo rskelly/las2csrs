@@ -6,17 +6,17 @@ Note: project has been dormant for some time. Paths may need to be juggled or co
 
 ## Dependencies
 
-[libLAS](https://github.com/liblas/libLAS)
-Boost
-Proj4
-GDAL
+- [libLAS](https://github.com/liblas/libLAS)
+- Boost
+- Proj4
+- GDAL
 
 ## Files
 
-src/ - The single source file. 
-share/ - A Helmert transformation parameter db and the NAD83v6VG grid shift file in TIF format.
-CMakeLists.txt - The build file.
-README.md - This file
+- src/ - The single source file. 
+- share/ - A Helmert transformation parameter db and the NAD83v6VG grid shift file in TIF format.
+- CMakeLists.txt - The build file.
+- README.md - This file
 
 ## Building
 
