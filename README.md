@@ -31,8 +31,11 @@ This is best done on a Debian/Ubuntu or similar machine:
 3) Clone and build las2csrs
 
     git clone https://github.com/rskelly/las2csrs
+
     cd las2csrs && mkdir build && cd build
+
     cmake ..
+    
     make
 
 4) Run
